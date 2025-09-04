@@ -79,10 +79,11 @@ image:
 				<b>Lecturas y recursos</b><br>
 				- [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.3-3.6 <br>
 				- [CS188-Berkeley] Uninformed search (<a href= "https://www.scribd.com/document/476704448/lec2">slides</a>,<a href= "https://www.youtube.com/watch?v=BEjSz-0H97g">video</a>)<br>
-				- [CS188-Berkeley] A* Search and Heuristics (<a href= "https://www.scribd.com/presentation/546788874/Informed-Search">slides</a>,<a href= "https://www.youtube.com/watch?v=WhWA-a9GV5s">video</a>)
+				- [CS188-Berkeley] A* Search and Heuristics (<a href= "https://www.scribd.com/presentation/546788874/Informed-Search">slides</a>,<a href= "https://www.youtube.com/watch?v=WhWA-a9GV5s">video</a>) <br>
+				- Graph Theory in State-Space (<a href= "https://www.youtube.com/watch?v=YGLNyHd2w10">video</a>)
 			</td>
 			<td>
-				<!-- <a href= "practica3.pdf">Práctica 3</a> -->
+				<a href= "practica3.pdf">Práctica 3</a>
 			</td>
 		</tr>
 		<tr>
