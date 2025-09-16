@@ -104,7 +104,7 @@ image:
 				LAB 02.02 - Numpy (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2002.02%20-%20NUMPY.html">notebook</a>)<br>
 				LAB 02.03 - Pandas (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2002.03%20-%20PANDAS.html">notebook</a>)<br>
 				LAB 02.04 - Card trick (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2002.04%20-%20CARD%20TRICK.html">notebook</a>, <a href= "https://youtu.be/GUx94AdHxHw">video</a>)<br>
-				<a href= "https://colab.research.google.com/drive/1F7Cdw45yE0yV6d9MySBwRgqYZnVTrkwK?usp=sharing">Práctica 3.5</a><br>
+				<!-- <a href= "https://colab.research.google.com/drive/1F7Cdw45yE0yV6d9MySBwRgqYZnVTrkwK?usp=sharing">Práctica 3.5</a><br> -->
 			</td>
 		</tr>
 		<tr>
@@ -162,6 +162,9 @@ image:
 			</td>
 			<td>
 				<!-- <a href= "https://colab.research.google.com/drive/1dKW6yKCncaLPEMe_v9MOKJvQTmFHjxJw?usp=sharing">Práctica 4.5</a>	-->
+				LAB 03.01 - Model generation (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.01%20-%20MODEL%20GENERATION.html">notebook</a>, <a href= "https://youtu.be/Zj77iukp1LU">video</a>)<br>
+				LAB 03.02 - Time series model (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.02%20-%20TIMESERIES%20MODEL.html">notebook</a>, <a href= "https://youtu.be/Ts1VXW30hn8">video</a>)<br>
+				<!-- <a href= "https://colab.research.google.com/drive/1dKW6yKCncaLPEMe_v9MOKJvQTmFHjxJw?usp=sharing">Práctica 4.5</a>	 -->
 			</td>
 		</tr>
 		<tr>
@@ -203,6 +206,9 @@ image:
 			</td>
 			<td>
 				<!-- <a href= "https://colab.research.google.com/drive/17iYYTX3acbJ2iHS9GfBx47G-txjW-XoI?usp=sharing">Práctica 5.5</a>	-->
+				LAB 04.01 - Cleaning data (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2004.01%20-%20CLEANING%20DATA.html">notebook</a>, <a href= "https://youtu.be/mb0fH3AXhZ4">video</a>)<br>
+				LAB 04.02 - Building datasets (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2004.02%20-%20BUILDING%20DATASETS.html">notebook</a>, <a href= "https://youtu.be/mb0fH3AXhZ4">video</a>)<br>
+				<!-- <a href= "https://colab.research.google.com/drive/17iYYTX3acbJ2iHS9GfBx47G-txjW-XoI?usp=sharing">Práctica 5.5</a>	<br> -->
 			</td>
 		</tr>
 		<tr>
@@ -288,7 +294,7 @@ image:
 				LAB 07.02 - Neural networks (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2007.02%20-%20NEURAL%20NETWORKS.html">notebook</a>, <a href= "https://youtu.be/6mDg3sWTwPM">video</a>)<br>
 				<br>
 				<br>
-				<a href= "practica8.pdf">Práctica 8</a><br>
+				<!-- <a href= "practica8.pdf">Práctica 8</a><br> -->
 			</td>		
 		</tr>
 		<tr>
