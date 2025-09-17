@@ -104,7 +104,7 @@ image:
 				LAB 02.02 - Numpy (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2002.02%20-%20NUMPY.html">notebook</a>)<br>
 				LAB 02.03 - Pandas (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2002.03%20-%20PANDAS.html">notebook</a>)<br>
 				LAB 02.04 - Card trick (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2002.04%20-%20CARD%20TRICK.html">notebook</a>, <a href= "https://youtu.be/GUx94AdHxHw">video</a>)<br>
-				<!-- <a href= "https://colab.research.google.com/drive/1F7Cdw45yE0yV6d9MySBwRgqYZnVTrkwK?usp=sharing">Práctica 3.5</a><br> -->
+				<a href= "https://colab.research.google.com/drive/14tv0DMbOG-cch4ZM29i1GvWn8weC4M7g?usp=sharing">Práctica 3.5</a><br>
 			</td>
 		</tr>
 		<tr>
