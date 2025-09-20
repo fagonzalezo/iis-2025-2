@@ -108,7 +108,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 22</td>
+			<td>Sep 29</td>
 			<td>
 			3.1 Qué es el machine learning<br>
 			3.2 Aprendizaje supervisado<br>
@@ -152,7 +152,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 29</td>
+			<td>Oct 6</td>
 			<td>
 			4.2 Construcción de modelos a partir de datos
 			</td>
@@ -168,7 +168,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 6</td>
+			<td>Oct 13</td>
 			<td>
 			3.3.2 Modelos probabilísticos
 			</td>
@@ -196,7 +196,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 13</td>
+			<td>Oct 20</td>
 			<td>
 			4.3 Exploración y preparación de datos
 			</td>
@@ -212,7 +212,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 20</td>
+			<td>Oct 27</td>
 			<td>
 			3.3.3 Arboles de decisión
 			</td>
@@ -240,7 +240,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 27</td>
+			<td>Nov 3</td>
 			<td>
 			4.4 Evaluación de modelos<br>
 			4.5 Selección de modelos
@@ -255,7 +255,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>Nov 3</td>
+			<td>Nov 10</td>
 			<td>
 			3.3.4 Redes neuronales
 			</td>
@@ -281,7 +281,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 10</td>
+			<td>Nov 17</td>
 			<td>
 			4.6 Redes neuronales y Tensorflow
 			</td>
@@ -298,7 +298,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>Nov 17</td>
+			<td>Nov 24</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.1 Clustering
@@ -324,7 +324,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 24</td>
+			<td>Dic 1</td>
 			<td>
 			4.8 Desarrollo de modelos no supervisados
 			</td>
@@ -339,7 +339,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dic 1</td>
+			<td>Dic 8</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.2 Reducción de la dimensionalidad<br>
