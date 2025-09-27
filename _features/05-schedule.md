@@ -148,7 +148,7 @@ image:
 				Carl Sagan, <a href= "https://www.youtube.com/watch?v=6fxBDk7eRMg">La armonía de los mundos </a>
 			</td>
 			<td>
-				<!-- <a href= "https://colab.research.google.com/drive/14Oqx2eBdePnkMKgv0Ov_wInHKJokufA_?usp=sharing">Práctica 4</a>	-->
+				<a href= "https://colab.research.google.com/drive/14Oqx2eBdePnkMKgv0Ov_wInHKJokufA_?usp=sharing">Práctica 4</a>	
 			</td>
 		</tr>
 		<tr>
