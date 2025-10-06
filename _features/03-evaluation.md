@@ -12,4 +12,4 @@ image:
 * Laboratorios 30%
 * Proyecto 15%
 
-[Notas](https://docs.google.com/spreadsheets/d/1jpvU8TJfm5BbFtQE9zYyzCYx4U4gBS2PDnd6y4SkT9Y/edit?usp=sharing)
+[Notas](https://docs.google.com/spreadsheets/d/1ep_RR7TmMVGZ2Jkiyf7nhLMOt9qfNVs3zgjMksFX4c4/edit?gid=0#gid=0)
