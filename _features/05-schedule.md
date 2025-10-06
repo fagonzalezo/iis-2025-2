@@ -164,7 +164,7 @@ image:
 				<!-- <a href= "https://colab.research.google.com/drive/1dKW6yKCncaLPEMe_v9MOKJvQTmFHjxJw?usp=sharing">Práctica 4.5</a>	-->
 				LAB 03.01 - Model generation (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.01%20-%20MODEL%20GENERATION.html">notebook</a>, <a href= "https://youtu.be/Zj77iukp1LU">video</a>)<br>
 				LAB 03.02 - Time series model (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.02%20-%20TIMESERIES%20MODEL.html">notebook</a>, <a href= "https://youtu.be/Ts1VXW30hn8">video</a>)<br>
-				<!-- <a href= "https://colab.research.google.com/drive/1dKW6yKCncaLPEMe_v9MOKJvQTmFHjxJw?usp=sharing">Práctica 4.5</a>	 -->
+				<a href= "https://colab.research.google.com/drive/1dKW6yKCncaLPEMe_v9MOKJvQTmFHjxJw?usp=sharing">Práctica 4.5</a>	
 			</td>
 		</tr>
 		<tr>
