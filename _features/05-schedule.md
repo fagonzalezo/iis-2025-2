@@ -192,7 +192,7 @@ image:
 				[CS188-Berkeley] Naïve Bayes 2 (<a href= "https://drive.google.com/file/d/1Z5dx5N0oB8rTlOjoFfS35naoJgg71FV7/view?usp=sharing">slides</a>) (<a href= "https://youtube.com/playlist?list=PLp8QV47qJEg4rxB7oob8tO_0tD4gUnQnM">video</a>)<br>
 			</td>
 			<td>
-				<!-- <a href= "practica5.pdf">Práctica 5</a>	-->
+				<a href= "practica5.pdf">Práctica 5</a>	
 			</td>
 		</tr>
 		<tr>
@@ -236,7 +236,7 @@ image:
 				[Russell10] Sect 19.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>)<br>
 			</td>
 			<td>
-				<!-- <a href= "practica6.pdf">Práctica 6</a><br> -->
+				<a href= "practica6.pdf">Práctica 6</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -277,7 +277,7 @@ image:
 					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
 			</td>
 			<td>
-				<!-- <a href= "practica7.pdf">Práctica 7</a><br> -->
+				<a href= "practica7.pdf">Práctica 7</a><br>
 			</td>
 		</tr>
 		<tr>
