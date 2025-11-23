@@ -275,6 +275,7 @@ image:
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
 					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
+					<a href= "https://notebooklm.google.com/notebook/0bb5d0d4-188f-4886-a679-0f591b17f5d6">Asistente IA sobre Redes Neuronales</a><br>
 			</td>
 			<td>
 				<a href= "practica7.pdf">Práctica 7</a><br>
