@@ -290,6 +290,8 @@ image:
 			<td>
 				<b>Clase asíncrona:</b><br>
 				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M07_videos.html">Diseño de algoritmos</a><br>
+				<b>Clase síncrona (19/11/2025):</b><br>
+				- Redes neuronales en Keras (<a href= "https://drive.google.com/file/d/1CQd6fjP5-qfEQZi3B7D9_UoJ78-6sNGe/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 				LAB 07.01 - Optimization for ML (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2007.01%20-%20OPTIMIZATION%20FOR%20ML.html">notebook</a>, <a href= "https://youtu.be/6mDg3sWTwPM">video</a>)<br>
