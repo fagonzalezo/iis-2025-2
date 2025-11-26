@@ -275,7 +275,7 @@ image:
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
 					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
-					<a href= "https://notebooklm.google.com/notebook/0bb5d0d4-188f-4886-a679-0f591b17f5d6">Asistente IA sobre Redes Neuronales</a><br>
+					<a href= "https://notebooklm.google.com/notebook/0bb5d0d4-188f-4886-a679-0f591b17f5d6">Asistente IA: Redes Neuronales</a><br>
 			</td>
 			<td>
 				<a href= "practica7.pdf">Práctica 7</a><br>
@@ -321,9 +321,10 @@ image:
 				- 10. Otros modelos de clustering (<a href= "https://drive.google.com/file/d/1GmqfvB3k-P81FCFqorIjbUJ-ujetO9cW/view?usp=drive_link">video</a> 5m)<br>
 				<b>Recursos adicionales:</b><br>
 				<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
+				<a href= "https://notebooklm.google.com/notebook/217302d6-935d-4be5-a0e0-b6f4a81b5e5a">Asistente IA: Agrupamiento</a><br>
 			</td>
 			<td>
-				<!-- <a href= "practica9.pdf">Práctica 9</a><br> -->
+				<a href= "practica9.pdf">Práctica 9</a><br>
 			</td>
 		</tr>
 		<tr>
